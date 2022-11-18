@@ -1,0 +1,14 @@
+:root {
+    --spacing-unit-small: 8px;
+    --spacing-unit: 16px;
+    --spacing-unit-large: 24px;
+}
+
+.page-header {
+    background-color: blue;
+}
+
+.current-forecast {
+    border: 2px solid black;
+    padding: var(--spacing-unit);
+}
